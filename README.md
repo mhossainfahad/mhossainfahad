@@ -5,7 +5,7 @@
       I have a resolution for 2022 to learn core competencies needed to become a Junior Devops Engineer  
 - 💞️ I’m looking for opportunities to learn and work in a professional paradigm
 - 📫 How to reach me,
-     Email: mahmudhossain.fahad@gmail.com
+     Email: mahmudhossain.fahad@gmail.com or,
      LinkedIn: https://www.linkedin.com/in/mhossainfahad/ 
 
 <!---
